@@ -1,0 +1,18 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Darth Vader",
+      "num_inscricao": "4485255",
+      "curso":"Informática",
+      "bday":"30/07/2005"
+    },
+    {
+      "id": 2,
+      "nome": "Darth Moul",
+      "num_inscricao": "4485256",
+      "curso":"Redes",
+      "bday":"30/07/2005"
+    }
+  ]
+}
